@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/ZeroHawkeye/wordZero/pkg/markdown"
+	"github.com/IazgnoT/wordZero/pkg/markdown"
 )
 
 // TestMarkdownTableConversion 测试Markdown表格转换

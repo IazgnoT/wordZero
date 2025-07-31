@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ZeroHawkeye/wordZero/pkg/style"
+	"github.com/IazgnoT/wordZero/pkg/style"
 )
 
 // TestNewDocument 测试新文档创建

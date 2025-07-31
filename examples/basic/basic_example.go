@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ZeroHawkeye/wordZero/pkg/document"
-	"github.com/ZeroHawkeye/wordZero/pkg/style"
+	"github.com/IazgnoT/wordZero/pkg/document"
+	"github.com/IazgnoT/wordZero/pkg/style"
 )
 
 func main() {
@@ -56,7 +56,7 @@ func main() {
 	codeExample := `go get github.com/ZeroHawkeye/wordZero
 
 // 使用示例
-import "github.com/ZeroHawkeye/wordZero/pkg/document"
+import "github.com/IazgnoT/wordZero/pkg/document"
 
 doc := document.New()
 doc.AddParagraph("Hello, WordZero!")

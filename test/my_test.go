@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/ZeroHawkeye/wordZero/pkg/document"
+	"github.com/IazgnoT/wordZero/pkg/document"
 )
 
 func TestWordTempProcessor(t *testing.T) {
